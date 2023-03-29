@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668267848815",
+    "project_id": "project1-b344d",
+    "storage_bucket": "project1-b344d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668267848815:android:0490c2339d7d1d0939999a",
+        "android_client_info": {
+          "package_name": "com.example.mydemmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668267848815-lt85t9jpc4diq8e828qefffm4akc0b8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtRN_XTNt17g6o7Jvdugllv8a3_jv40E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668267848815-lt85t9jpc4diq8e828qefffm4akc0b8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
